@@ -3,5 +3,5 @@ Me llamo Valentino Santarone, soy Técnico en Informática y mi legajo es 234.93
 
 ![The strong, silent type.](https://pbs.twimg.com/media/E1PtaRwVUAIUyhH.jpg)
 
-## Segundo commit
-Ando con poca batería así que voy a intentar escribir rápido. Me gusta mucho la program
+## Sobre mí
+Hablo italiano con fluidez. Tengo familia en [Bomba, Chieti](https://es.wikipedia.org/wiki/Bomba_(Italia)) y cada tanto los visito.
